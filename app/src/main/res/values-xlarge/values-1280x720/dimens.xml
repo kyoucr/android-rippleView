@@ -1,0 +1,41 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <!-- 关于   按钮距上的高度 -->
+    <dimen name="height_margintop">60dp</dimen>
+    <!-- 关于   图片轮播 -->
+    <dimen name="height_picture_play">180dp</dimen>
+    <!-- margin_5dp -->
+    <dimen name="margin_5dp">7dp</dimen>
+    <!-- margin_10dp -->
+    <dimen name="margin_10dp">12dp</dimen>
+    <!-- margin_15dp -->
+    <dimen name="margin_15dp">17dp</dimen>
+    <!-- margin_20dp -->
+    <dimen name="margin_20dp">24dp</dimen>
+    <!-- margin_30dp -->
+    <dimen name="margin_30dp">36dp</dimen>
+    <!-- margin_40dp -->
+    <dimen name="margin_40dp">45dp</dimen>
+    <!-- padding_5dp -->
+    <dimen name="padding_5dp">7dp</dimen>
+    <!-- padding_10dp -->
+    <dimen name="padding_10dp">12dp</dimen>
+    <!-- margin_15dp -->
+    <dimen name="padding_15dp">17dp</dimen>
+    <!-- margin_20dp -->
+    <dimen name="padding_20dp">22dp</dimen>
+    <!-- padding_30dp -->
+    <dimen name="padding_30dp">33dp</dimen>
+    <!-- margin_50dp -->
+    <dimen name="margin_50dp">60dp</dimen>
+    <!-- 高度150 -->
+    <dimen name="height_150">165dp</dimen>
+    <!-- 高度200 -->
+    <dimen name="height_200">220dp</dimen>
+    <!-- 高度300 -->
+    <dimen name="height_300">330dp</dimen>
+    <!-- 登陆按钮字体大小 -->
+    <dimen name="btntext_size">17dp</dimen>
+
+</resources>

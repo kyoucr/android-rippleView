@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!--android:Theme.Material.Light-->
+        <item name="android:colorPrimaryDark">@color/material_blue_grey_800</item>
+        <item name="android:colorPrimary">@color/accent_material_light</item>
+        <item name="android:textColorPrimary">@color/abc_primary_text_material_dark</item>
+        <item name="android:windowBackground">@color/background_floating_material_dark</item>
+        <item name="android:navigationBarColor">@color/material_blue_grey_950</item>
+        <item name="colorAccent">#FF4081</item>
+    </style>
+</resources>
