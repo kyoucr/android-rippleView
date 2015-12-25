@@ -8,9 +8,7 @@ import android.graphics.PorterDuffXfermode;
 import android.graphics.Rect;
 import android.graphics.RectF;
 
-/**
- * Created by eve on 2015/12/10 0010.
- */
+
 public class ImgUtil {
     private static ImgUtil mImgUtil;
 
@@ -21,13 +19,8 @@ public class ImgUtil {
         return mImgUtil;
     }
 
-    /**
-     * 设置圆角的图片
-     * @param bitmap
-     * @param pixels
-     *
-     * @return bitmap
-     */
+
+    /* 设置圆角的图片*/
     public Bitmap toRoundCornerBitmap(Bitmap bitmap, int pixels) {
         try {
             Bitmap output = Bitmap.createBitmap(bitmap.getWidth(),
@@ -55,12 +48,7 @@ public class ImgUtil {
         return bitmap;
     }
 
-    /**
-     * 将图片转换为圆形的
-     * @param bitmap
-     *
-     * @return Bitmap
-     */
+    /* 将图片转换为圆形的*/
     public Bitmap toRoundBitmap(Bitmap bitmap) {
         try {
             bitmap = cutSquareBitmap(bitmap);
@@ -71,12 +59,7 @@ public class ImgUtil {
         return bitmap;
     }
 
-    /**
-     * 把图片切成正方形的
-     * @param bitmap
-     *
-     * @return Bitmap
-     */
+
     public Bitmap cutSquareBitmap(Bitmap bitmap) {
         try {
             Bitmap result;

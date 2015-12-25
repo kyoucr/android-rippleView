@@ -1,5 +1,8 @@
 .gradle
 /local.properties
+/gradle.properties
+/app/gradle-bintray-push.gradle
+/app/gradle-mvn-push.gradle
 /.idea/workspace.xml
 /.idea/libraries
 .DS_Store
