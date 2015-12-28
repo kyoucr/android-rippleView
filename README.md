@@ -3,9 +3,13 @@
 用于android
 >
  <com.cn.rippleview.ThreeCirView
+ >
         android:id="@+id/rippleView"
+        >
         android:layout_width="fill_parent"
+        >
         android:layout_height="fill_parent"/>
 >
 threeCirView = (ThreeCirView) findViewById(R.id.rippleView);
+>
         threeCirView.initView("开始扩散");
