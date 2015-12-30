@@ -1,7 +1,6 @@
 # android-rippleView
-dependencies 引用com.github.nicccccccccce.rippleview:app:1.0.2
-自定义圆圈扩散view
-用于android
+##dependencies 引用com.github.nicccccccccce.rippleview:app:1.0.2
+##自定义圆圈扩散view
 >
  <com.cn.rippleview.ThreeCirView
  >
