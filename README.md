@@ -18,7 +18,7 @@ threeCirView = (ThreeCirView) findViewById(R.id.rippleView);
 
 <!--<img src="https://github.com/nicccccccccce/documents/blob/master/android-rippleview.mp4" height="50%" width="50%" />-->
 
-<video height="50%" width="50%" controls="controls">
+<video height="1280" width="720" controls="controls">
   <source src="https://github.com/nicccccccccce/documents/blob/master/android-rippleview.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
