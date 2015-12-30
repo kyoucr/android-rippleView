@@ -14,7 +14,7 @@ threeCirView = (ThreeCirView) findViewById(R.id.rippleView);
 >
         threeCirView.initView("开始扩散");
 >
-<img src="https://github.com/nicccccccccce/documents/blob/master/android-rippleview.gif" height="50%" width="50%" />
+<img src="https://github.com/nicccccccccce/documents/blob/master/andorid-rippleview.gif" height="50%" width="50%" />
 
 
 
